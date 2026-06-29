@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
