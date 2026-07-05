@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0283-move-zeroes) |
 | [1732-find-the-highest-altitude](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
