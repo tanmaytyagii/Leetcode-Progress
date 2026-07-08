@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
