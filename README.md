@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3842-toggle-light-bulbs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3866-first-unique-even-element) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0283-move-zeroes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3842-toggle-light-bulbs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,8 +111,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0067-add-binary) |
 | [3842-toggle-light-bulbs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
