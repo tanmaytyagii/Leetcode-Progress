@@ -1,16 +1,17 @@
 class Solution {
 public:
     vector<int> toggleLightBulbs(vector<int>& bulbs) {
-        bool on[101] = {false};
-        for (int i = 0; i < bulbs.size(); i++) {
-            on[bulbs[i]] = !on[bulbs[i]];
+        int hash[101] = {0};
+        for(int i=0; i<bulbs.size(); i++){
+            hash[bulbs[i]]+=1;
         }
-        vector<int> ans;
-        for (int i = 1; i <= 100; i++) {
-            if (on[i]) {
-                ans.push_back(i);
+        vector<int> answer;
+        for(int i=1; i<101; i++){
+            if(hash[i] % 2 != 0) {
+                answer.push_back(i);
             }
         }
-        return ans;
+        return answer;
+
     }
 };
