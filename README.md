@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3842-toggle-light-bulbs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
