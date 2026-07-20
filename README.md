@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0189-rotate-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
