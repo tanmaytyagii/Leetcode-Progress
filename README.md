@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
