@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1796-second-largest-digit-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3866-first-unique-even-element) |
 ## Math
