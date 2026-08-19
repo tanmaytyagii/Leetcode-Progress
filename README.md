@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1331-rank-transform-of-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1796-second-largest-digit-in-a-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
