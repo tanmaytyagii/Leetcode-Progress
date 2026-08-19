@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3842-toggle-light-bulbs](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3842-toggle-light-bulbs) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Brainteaser
