@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0073-set-matrix-zeroes) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Brainteaser
 |  |
 | ------- |
