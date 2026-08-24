@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1872-stone-game-viii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1872-stone-game-viii) |
 ## Union-Find
 |  |
 | ------- |
@@ -244,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0292-nim-game) |
+| [1872-stone-game-viii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -256,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0523-continuous-subarray-sum) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
