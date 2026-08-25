@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0486-predict-the-winner) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
@@ -272,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1872-stone-game-viii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
