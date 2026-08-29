@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0657-robot-return-to-origin) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1796-second-largest-digit-in-a-string) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
