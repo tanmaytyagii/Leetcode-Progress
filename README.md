@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0657-robot-return-to-origin) |
 | [1189-maximum-number-of-balloons](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1796-second-largest-digit-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -317,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0181-employees-earning-more-than-their-managers) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
