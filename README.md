@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0657-robot-return-to-origin) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
