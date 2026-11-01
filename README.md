@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3731-find-missing-elements) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanmaytyagii/Leetcode-Progress/tree/master/3536-maximum-product-of-two-digits) |
